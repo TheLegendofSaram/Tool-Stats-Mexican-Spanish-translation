@@ -1,0 +1,7 @@
+{
+  "tooltip.toolstats.harvestlevel": " Nivel de recolección: %d",
+  "tooltip.toolstats.efficiency": " Velocidad de excavación: %s",
+  "tooltip.toolstats.enchantability": " Encantabilidad: %d",
+  "tooltip.toolstats.repaircost": " Costo de reparación: %d",
+  "tooltip.toolstats.when_on.horse": "Cuando estás a caballo:"
+}
